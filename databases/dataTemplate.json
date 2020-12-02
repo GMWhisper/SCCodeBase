@@ -1,0 +1,33 @@
+{
+    "players": [],
+    "characters": [],
+    "transactions": [],
+    "lifestyles": [
+        {
+            "name": "Tenement Apartment",
+            "cost": 10,
+            "retire": 800
+        },
+        {
+            "name": "Common Apartment",
+            "cost": 12.5,
+            "retire": 4000
+        },
+        {
+            "name": "Good Apartment",
+            "cost": 25,
+            "retire": 6000
+        },
+        {
+            "name": "Excellent Apartment",
+            "cost": 50,
+            "retire": 10000
+        },
+        {
+            "name": "Luxury Apartment",
+            "cost": 125,
+            "retire": 24000
+        }
+    ],
+    "serverTier": 1
+}
